@@ -2,7 +2,7 @@
 
 Alignements basés sur la transformation de Burrows-Wheeler
 
-De: Laëtitia Hollier, Lynda Messad Dit Matahl
+De: Laëtitia Hollier, Lynda Messad Dit Mahtal
 
 Objecitf du TP: aligner des reads avec une séquence référence à l'aide la transformée de Burrows-Wheeler.
 
